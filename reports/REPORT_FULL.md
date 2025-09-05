@@ -1,6 +1,6 @@
 # Bank Marketing — Term Deposit Prediction (Full Report)
-Author: [Your Name]  
-Date: [DD MMM YYYY]  
+Author: Kuldeep Rajak  
+Date: 06-09-2025  
 Project: Bank Marketing — Machine Learning Pipeline & Streamlit App Deployment  
 
 ---
